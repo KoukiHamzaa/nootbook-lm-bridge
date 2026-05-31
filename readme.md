@@ -27,5 +27,5 @@ The project aims to provide a bridge or integration layer, likely between notebo
 | May | 2025 | 347 | 228 | 0 | 575 |
 | **Total** | | **6467** | **4916** | **166** | **11549** |
 
-## Choosed Delevery Camapany Cakado Deal With
+## Chosen Delivery Company: Cakado Partnership
 ![Delivery Companies](./delevery.png)
